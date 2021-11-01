@@ -16,7 +16,7 @@
   <img align="center" alt="SQLite" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
   <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
   <img align="center" alt="Android Studio" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img align="center" alt="Jetpack" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmLzHy8OE2qOzk0f-svk-7nLj5aokTq7c0xA&usqp=CAU" width="135.75" height="28" />
+  <img align="center" alt="Jetpack" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmLzHy8OE2qOzk0f-svk-7nLj5aokTq7c0xA&usqp=CAU" width="70" height="28" />
   
 </div><br/>
 
